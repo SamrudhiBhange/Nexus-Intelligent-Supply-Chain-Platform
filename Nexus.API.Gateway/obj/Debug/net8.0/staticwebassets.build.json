@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "6bBW4PipRyvWhmWronjg1Q7zvv0wW4YYwXp72LX+DBc=",
+  "Source": "Nexus.API.Gateway",
+  "BasePath": "_content/Nexus.API.Gateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
