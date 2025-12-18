@@ -1,0 +1,12 @@
+C:\Users\Samrudhi Bhange\OneDrive\Desktop\bhange\PROJECTS\Nexus.BuildingBlocks\bin\Debug\net8.0\Nexus.BuildingBlocks.deps.json
+C:\Users\Samrudhi Bhange\OneDrive\Desktop\bhange\PROJECTS\Nexus.BuildingBlocks\bin\Debug\net8.0\Nexus.BuildingBlocks.dll
+C:\Users\Samrudhi Bhange\OneDrive\Desktop\bhange\PROJECTS\Nexus.BuildingBlocks\bin\Debug\net8.0\Nexus.BuildingBlocks.pdb
+C:\Users\Samrudhi Bhange\OneDrive\Desktop\bhange\PROJECTS\Nexus.BuildingBlocks\obj\Debug\net8.0\Nexus.BuildingBlocks.csproj.AssemblyReference.cache
+C:\Users\Samrudhi Bhange\OneDrive\Desktop\bhange\PROJECTS\Nexus.BuildingBlocks\obj\Debug\net8.0\Nexus.BuildingBlocks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samrudhi Bhange\OneDrive\Desktop\bhange\PROJECTS\Nexus.BuildingBlocks\obj\Debug\net8.0\Nexus.BuildingBlocks.AssemblyInfoInputs.cache
+C:\Users\Samrudhi Bhange\OneDrive\Desktop\bhange\PROJECTS\Nexus.BuildingBlocks\obj\Debug\net8.0\Nexus.BuildingBlocks.AssemblyInfo.cs
+C:\Users\Samrudhi Bhange\OneDrive\Desktop\bhange\PROJECTS\Nexus.BuildingBlocks\obj\Debug\net8.0\Nexus.BuildingBlocks.csproj.CoreCompileInputs.cache
+C:\Users\Samrudhi Bhange\OneDrive\Desktop\bhange\PROJECTS\Nexus.BuildingBlocks\obj\Debug\net8.0\Nexus.BuildingBlocks.dll
+C:\Users\Samrudhi Bhange\OneDrive\Desktop\bhange\PROJECTS\Nexus.BuildingBlocks\obj\Debug\net8.0\refint\Nexus.BuildingBlocks.dll
+C:\Users\Samrudhi Bhange\OneDrive\Desktop\bhange\PROJECTS\Nexus.BuildingBlocks\obj\Debug\net8.0\Nexus.BuildingBlocks.pdb
+C:\Users\Samrudhi Bhange\OneDrive\Desktop\bhange\PROJECTS\Nexus.BuildingBlocks\obj\Debug\net8.0\ref\Nexus.BuildingBlocks.dll
