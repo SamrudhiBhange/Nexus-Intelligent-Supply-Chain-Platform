@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "/Tzg8wNEVTbuWYPrO9HFJiPucXcbjgKH1eMZB0yTB8g=",
+  "Source": "Nexus.Services.Notification",
+  "BasePath": "_content/Nexus.Services.Notification",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

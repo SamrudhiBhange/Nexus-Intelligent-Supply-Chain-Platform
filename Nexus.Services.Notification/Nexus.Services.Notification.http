@@ -1,0 +1,6 @@
+@Nexus.Services.Notification_HostAddress = http://localhost:5035
+
+GET {{Nexus.Services.Notification_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
