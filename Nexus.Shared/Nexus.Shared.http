@@ -1,0 +1,6 @@
+@Nexus.Shared_HostAddress = http://localhost:5229
+
+GET {{Nexus.Shared_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

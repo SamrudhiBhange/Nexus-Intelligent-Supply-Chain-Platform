@@ -1,0 +1,12 @@
+C:\Users\Samrudhi Bhange\OneDrive\Desktop\bhange\PROJECTS\Nexus.Shared\bin\Debug\net8.0\Nexus.Shared.deps.json
+C:\Users\Samrudhi Bhange\OneDrive\Desktop\bhange\PROJECTS\Nexus.Shared\bin\Debug\net8.0\Nexus.Shared.dll
+C:\Users\Samrudhi Bhange\OneDrive\Desktop\bhange\PROJECTS\Nexus.Shared\bin\Debug\net8.0\Nexus.Shared.pdb
+C:\Users\Samrudhi Bhange\OneDrive\Desktop\bhange\PROJECTS\Nexus.Shared\obj\Debug\net8.0\Nexus.Shared.csproj.AssemblyReference.cache
+C:\Users\Samrudhi Bhange\OneDrive\Desktop\bhange\PROJECTS\Nexus.Shared\obj\Debug\net8.0\Nexus.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samrudhi Bhange\OneDrive\Desktop\bhange\PROJECTS\Nexus.Shared\obj\Debug\net8.0\Nexus.Shared.AssemblyInfoInputs.cache
+C:\Users\Samrudhi Bhange\OneDrive\Desktop\bhange\PROJECTS\Nexus.Shared\obj\Debug\net8.0\Nexus.Shared.AssemblyInfo.cs
+C:\Users\Samrudhi Bhange\OneDrive\Desktop\bhange\PROJECTS\Nexus.Shared\obj\Debug\net8.0\Nexus.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Samrudhi Bhange\OneDrive\Desktop\bhange\PROJECTS\Nexus.Shared\obj\Debug\net8.0\Nexus.Shared.dll
+C:\Users\Samrudhi Bhange\OneDrive\Desktop\bhange\PROJECTS\Nexus.Shared\obj\Debug\net8.0\refint\Nexus.Shared.dll
+C:\Users\Samrudhi Bhange\OneDrive\Desktop\bhange\PROJECTS\Nexus.Shared\obj\Debug\net8.0\Nexus.Shared.pdb
+C:\Users\Samrudhi Bhange\OneDrive\Desktop\bhange\PROJECTS\Nexus.Shared\obj\Debug\net8.0\ref\Nexus.Shared.dll
