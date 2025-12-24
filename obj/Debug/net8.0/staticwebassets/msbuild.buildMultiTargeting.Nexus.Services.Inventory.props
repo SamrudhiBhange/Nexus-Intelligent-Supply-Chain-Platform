@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Nexus.Services.Inventory.props" />
+</Project>
